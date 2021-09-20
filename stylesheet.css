@@ -1,0 +1,97 @@
+.nav-item
+{
+  font-size: 20px;
+  color: aliceblue;
+}
+.nav-link
+{
+  color: aliceblue;
+  position: relative;
+  top: -10px;
+
+}
+.nav-item :hover {
+  background-image: url(https://64.media.tumblr.com/6c190934e823d9f19e616bf9b215551b/ef74eac041f6f71f-1e/s500x750/f86785f7ae4e015bda5ea343ae01ceb715dbdffb.gif);
+  color: white;
+  font-size: 21px;
+  border-radius: 18px;
+}
+
+.navbar-brand
+ {
+   font-size: 27px;
+   font-family:sans-serif;
+
+}
+
+/* @keyframes ayush {
+  0% {
+    background-image: url(https://i.gifer.com/SjZn.gif);
+  }
+
+  50% {
+    background-color: white;
+    color: black;
+  }
+
+  100% {
+    background-color: black;
+    color: white;
+  }
+} */
+.fa {
+padding: 8px;
+font-size: 30px;
+width: 40px;
+text-align: center;
+text-decoration: none;
+height: 40px;
+border-radius: 40%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+padding: 10px;
+font-size: 31px;
+width: 41px;
+text-align: center;
+text-decoration: none;
+height: 41px;
+position: relative;
+color: aliceblue;
+
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+position: relative;
+left: 420px;
+top: -28px;
+color: rgb(119, 133, 255);
+box-shadow:2px 2px 3px rgba(39, 71, 255, 0.404);
+}
+
+/* Twitter */
+.fa-twitter {
+position: relative;
+left: -231px;
+top: -28px;
+color: rgb(47, 213, 255);
+box-shadow:2px 2px 3px teal;
+}
+.fa-instagram {
+
+position: relative;
+left: 11px; top: -28px;
+color: rgb(212, 3, 160);
+box-shadow: 2px 2px 3px rgba(255, 0, 140, 0.452);
+}
+.name 
+{
+    position : relative ;
+    top: -43px;
+    left: 72px;
+}
+
